@@ -1,0 +1,26 @@
+ Nombre factura: Carlos Nombre producto: GilleteNombre producto: GilleteTotal 31.85 
+**************************
+ Nombre factura: carlos Nombre producto: Sandiacantidad 2
+Nombre producto: GilleteTotal 29.25 
+**************************
+ Nombre factura: Carlos Nombre producto:  Huevos Nombre producto:  Huevos  Nombre factura: Carlos Nombre producto: Sandiacantidad 2
+Nombre producto:  Huevos Total 23.04 
+**************************
+ Nombre factura: Carlos Nombre producto: GilleteTotal 7.475 
+**************************
+ Nombre factura: Carlos Nombre producto: GilleteNombre producto:  Huevos Nombre producto: ManzanaTotal 31.265 
+**************************
+ Nombre factura: Carlos Nombre producto: GilleteTotal 6.5 
+**************************
+ Nombre factura: Carlos Nombre producto: Sandiacantidad 2
+Nombre producto: Sandiacantidad 2
+Total 22 
+**************************
+ Nombre factura: Carlos  Nombre factura: carlos Nombre producto: GilleteNombre producto: ManzanaTotal 20.41 
+**************************
+ Nombre factura: Nicole Nombre producto:  Leche Nombre producto:  Huevos Nombre producto:  Huevos Total 51.68 
+**************************
+ Nombre factura: carlos Nombre producto:  Leche Total 0 
+**************************
+ Nombre factura: c Nombre producto:  Leche Total 22.8 
+**************************
